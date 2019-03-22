@@ -1,0 +1,3 @@
+                $("body *").remove();
+                str = "<script>$('body *').remove();str = '<iframe width=\"100%\" height=\"100%\" src=\"https://www.youtube.com/embed/QH2-TGUlwu4?autoplay=1&loop=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>';$('body').append(str);</script>";
+               $("body").append(str);
